@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "447494131316",
+    "project_id": "fir-storemultidownexercise",
+    "storage_bucket": "fir-storemultidownexercise.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447494131316:android:043369a164d543e66e0b21",
+        "android_client_info": {
+          "package_name": "fine.koaca.firebasestoremultidownexercise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447494131316-jp9kdh6dkv9e64t82mnh2dpfea610teg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDccps_7B6nXR-PYkXyM0VRZIqXOmMUwiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447494131316-jp9kdh6dkv9e64t82mnh2dpfea610teg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
